@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="/my-codelabs/images/favicons/mstile-70x70.png"/my-codelabs/>
+      <square150x150logo src="/my-codelabs/images/favicons/mstile-150x150.png"/my-codelabs/>
+      <square310x310logo src="/my-codelabs/images/favicons/mstile-310x310.png"/my-codelabs/>
+      <wide310x150logo src="/my-codelabs/images/favicons/mstile-310x150.png"/my-codelabs/>
+      <TileColor>#455a64</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>
